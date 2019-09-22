@@ -5,5 +5,8 @@ Maintainer: TweakWorld
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tweakworld.transparentdock.deb
+Depiction:https://jkalter11.github.io/TweakWorld/depictions/?p=com.tweakworld.transparentdock
+Size:/1000
+MD5 sum:c6c0f06ee044627697acf545014ebe31
 Description: This makes your dock transparent
 Name: Transparent Dock
