@@ -1,0 +1,9 @@
+Package: com.tweakworld.lockscreen
+Name: Lockscreen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: tweakworld
+Author: tweakworld
+Section: Tweaks
